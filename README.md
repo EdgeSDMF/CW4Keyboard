@@ -1,6 +1,6 @@
-# CW4Keyboard
+# CW4Keyboard 4 Raspberry Pi / GPIO
 Keyboard to CW for HF Radio
-# CW Keyboard to HF Radio Keyer
+# CW Keyboard to HF Radio Keyer Raspberry Pi / GPIO
 
 This project allows you to type Morse code (CW) using your keyboard, transmitting it via GPIO to an HF radio, effectively replacing a manual key or paddle [[2](https://www.reddit.com/r/amateurradio/comments/1he9ahv/cw_key_and_keyer_combo/)].
 
